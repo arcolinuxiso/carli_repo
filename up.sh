@@ -31,8 +31,8 @@
 # git push --force origin
 
 # checking if I have the latest files from github
-echo "Checking for newer files online first"
-git pull
+#echo "Checking for newer files online first"
+#git pull
 
 cd x86_64
 sh update_repo.sh
